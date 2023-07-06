@@ -1,6 +1,4 @@
----
-title: "Get users"
-openapi: "swagger: '2.0'
+swagger: '2.0'
 x-stoplight:
   id: 3oe3af0u4ewoc
 info:
@@ -8360,5 +8358,4 @@ definitions:
       format:
         type: integer
       transactionsId:
-        type: string"
----
+        type: string
